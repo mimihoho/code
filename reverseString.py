@@ -17,4 +17,3 @@ while (i > 0):
     i = i-1
     #count = count+1
 print(backToString)
-print("Python3")
